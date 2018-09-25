@@ -1,0 +1,180 @@
+DEBUG 2018-09-24 17:21:10,300 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-09-24 17:21:10,312 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2018-09-24 17:21:10,317 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.Web.treinamentoProgramWebModule, treinamentoProgram.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,319 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,319 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,320 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,320 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,320 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramDataModule, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,321 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,321 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,321 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramCoreModule, treinamentoProgram.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,321 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramApplicationModule, treinamentoProgram.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,321 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramWebApiModule, treinamentoProgram.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,321 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:21:10,324 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2018-09-24 17:24:09,318 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-09-24 17:24:09,331 [1    ] Abp.Modules.AbpModuleManager             - Found 12 ABP modules in total.
+DEBUG 2018-09-24 17:24:09,336 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.Web.treinamentoProgramWebModule, treinamentoProgram.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramDataModule, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramCoreModule, treinamentoProgram.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramApplicationModule, treinamentoProgram.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramWebApiModule, treinamentoProgram.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,339 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:24:09,343 [1    ] Abp.Modules.AbpModuleManager             - 12 modules loaded.
+DEBUG 2018-09-24 17:26:13,729 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-09-24 17:26:13,748 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2018-09-24 17:26:13,753 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.Web.treinamentoProgramWebModule, treinamentoProgram.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,755 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,755 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,756 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,756 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,756 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramDataModule, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,756 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,756 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,756 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramCoreModule, treinamentoProgram.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramApplicationModule, treinamentoProgram.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramWebApiModule, treinamentoProgram.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,757 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:13,761 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2018-09-24 17:26:14,165 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: treinamentoProgram.EntityFramework.treinamentoProgramDbContext, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:26:17,048 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-09-24 17:26:17,154 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-09-24 17:26:17,162 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-09-24 17:26:17,165 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: treinamentoProgram
+DEBUG 2018-09-24 17:26:17,305 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-09-24 17:26:17,384 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-09-24 17:26:17,612 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'treinamentoProgram.ProductServices.IProductAppService' with service name 'app/product'.
+WARN  2018-09-24 17:26:17,881 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:26:17,911 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:26:23,828 [7    ] naries.DictionaryBasedLocalizationSource - Can not find 'Produto' in localization source 'treinamentoProgram'!
+DEBUG 2018-09-24 17:33:01,211 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-09-24 17:33:01,293 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2018-09-24 17:33:01,300 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.Web.treinamentoProgramWebModule, treinamentoProgram.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,301 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,302 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,302 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,302 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,302 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramDataModule, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,302 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,302 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,302 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramCoreModule, treinamentoProgram.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,303 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramApplicationModule, treinamentoProgram.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,303 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,303 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramWebApiModule, treinamentoProgram.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,303 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:01,306 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2018-09-24 17:33:01,640 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: treinamentoProgram.EntityFramework.treinamentoProgramDbContext, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:33:03,916 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-09-24 17:33:03,971 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-09-24 17:33:03,977 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-09-24 17:33:04,116 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: treinamentoProgram
+DEBUG 2018-09-24 17:33:04,266 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-09-24 17:33:04,330 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-09-24 17:33:04,548 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'treinamentoProgram.ProductServices.IProductAppService' with service name 'app/product'.
+WARN  2018-09-24 17:33:10,499 [7    ] naries.DictionaryBasedLocalizationSource - Can not find 'Produto' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:33:10,537 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:33:10,574 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2018-09-24 17:35:21,557 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-09-24 17:35:21,889 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2018-09-24 17:35:21,894 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.Web.treinamentoProgramWebModule, treinamentoProgram.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,896 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,896 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,897 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,897 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,897 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramDataModule, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,897 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,897 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,898 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramCoreModule, treinamentoProgram.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,898 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramApplicationModule, treinamentoProgram.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,898 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,898 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramWebApiModule, treinamentoProgram.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,898 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:21,902 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2018-09-24 17:35:22,660 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: treinamentoProgram.EntityFramework.treinamentoProgramDbContext, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:35:23,013 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-09-24 17:35:23,069 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-09-24 17:35:23,076 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-09-24 17:35:23,080 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: treinamentoProgram
+DEBUG 2018-09-24 17:35:23,358 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-09-24 17:35:23,476 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-09-24 17:35:23,731 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'treinamentoProgram.ProductServices.IProductAppService' with service name 'app/product'.
+WARN  2018-09-24 17:35:27,348 [8    ] naries.DictionaryBasedLocalizationSource - Can not find 'Produto' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:35:27,379 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:35:27,406 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:42:05,638 [15   ] naries.DictionaryBasedLocalizationSource - Can not find 'Produto' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:44:23,707 [30   ] naries.DictionaryBasedLocalizationSource - Can not find 'Produto' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:44:53,361 [29   ] naries.DictionaryBasedLocalizationSource - Can not find 'Create or Edit Product' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:44:53,361 [29   ] naries.DictionaryBasedLocalizationSource - Can not find 'Description' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:44:53,361 [29   ] naries.DictionaryBasedLocalizationSource - Can not find 'Cancel' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:44:53,361 [29   ] naries.DictionaryBasedLocalizationSource - Can not find 'Save' in localization source 'treinamentoProgram'!
+DEBUG 2018-09-24 17:55:38,113 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-09-24 17:55:38,577 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2018-09-24 17:55:38,582 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.Web.treinamentoProgramWebModule, treinamentoProgram.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,584 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,584 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,584 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,584 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,584 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramDataModule, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,585 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,585 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,585 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramCoreModule, treinamentoProgram.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,585 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramApplicationModule, treinamentoProgram.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,585 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,586 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramWebApiModule, treinamentoProgram.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,586 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:38,589 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2018-09-24 17:55:39,909 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: treinamentoProgram.EntityFramework.treinamentoProgramDbContext, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:55:40,193 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-09-24 17:55:40,255 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-09-24 17:55:40,262 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-09-24 17:55:40,265 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: treinamentoProgram
+DEBUG 2018-09-24 17:55:40,547 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-09-24 17:55:40,661 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-09-24 17:55:40,906 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'treinamentoProgram.ProductServices.IProductAppService' with service name 'app/product'.
+WARN  2018-09-24 17:55:45,352 [7    ] naries.DictionaryBasedLocalizationSource - Can not find 'Produto' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:55:45,384 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:55:45,412 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:55:47,860 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Descrição' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:56:13,926 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Produto' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:56:13,973 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'Descrição' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:56:24,571 [9    ] naries.DictionaryBasedLocalizationSource - Can not find 'Description' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:56:24,571 [9    ] naries.DictionaryBasedLocalizationSource - Can not find 'Cancel' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:56:24,571 [9    ] naries.DictionaryBasedLocalizationSource - Can not find 'Save' in localization source 'treinamentoProgram'!
+DEBUG 2018-09-24 17:58:48,329 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-09-24 17:58:48,631 [1    ] Abp.Modules.AbpModuleManager             - Found 13 ABP modules in total.
+DEBUG 2018-09-24 17:58:48,636 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.Web.treinamentoProgramWebModule, treinamentoProgram.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,638 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,638 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,638 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,638 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,638 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramDataModule, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramCoreModule, treinamentoProgram.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramApplicationModule, treinamentoProgram.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: treinamentoProgram.treinamentoProgramWebApiModule, treinamentoProgram.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=3.6.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:48,643 [1    ] Abp.Modules.AbpModuleManager             - 13 modules loaded.
+DEBUG 2018-09-24 17:58:49,222 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: treinamentoProgram.EntityFramework.treinamentoProgramDbContext, treinamentoProgram.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-09-24 17:58:49,484 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-09-24 17:58:49,548 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-09-24 17:58:49,555 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-09-24 17:58:49,558 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: treinamentoProgram
+DEBUG 2018-09-24 17:58:49,832 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-09-24 17:58:49,941 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes define auto mapping attributes
+DEBUG 2018-09-24 17:58:50,168 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'treinamentoProgram.ProductServices.IProductAppService' with service name 'app/product'.
+WARN  2018-09-24 17:58:55,753 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:58:55,781 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2018-09-24 17:59:03,497 [9    ] naries.DictionaryBasedLocalizationSource - Can not find 'Descrição' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:59:15,556 [9    ] naries.DictionaryBasedLocalizationSource - Can not find 'Description' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:59:15,556 [9    ] naries.DictionaryBasedLocalizationSource - Can not find 'Cancel' in localization source 'treinamentoProgram'!
+WARN  2018-09-24 17:59:15,556 [9    ] naries.DictionaryBasedLocalizationSource - Can not find 'Save' in localization source 'treinamentoProgram'!
